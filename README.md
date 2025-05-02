@@ -55,4 +55,4 @@ I’m currently learning [**Laravel**](https://laravel.com) Framework
 
 ---
 
-![Dare Devil](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRucDg2MW5obmcybnRhZHVveW9zNDZmeW1ybzM4bmJ1YXM0M28zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K3eXwOSED6r6tluiLq/giphy.gif)
+![Dare Devil](/assets/daredevil.gif)
