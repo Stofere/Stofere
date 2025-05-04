@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently learning [**Laravel**](https://laravel.com) Framework
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+;Laravel+Framework)](https://git.io/typing-svg)
 
 ---
 
