@@ -21,3 +21,14 @@ $developer = [
 ];
 ?>
 ```
+
+Informatics Engineering Graduate and Full-Stack developer specializing in the Laravel ecosystem. Proven experience building and deploying end-to-end internal business tools, including POS systems, ERPs, and hardware-software IoT integrations. Strong background in **database design**, **server deployment**, and **translating complex workflows** into secure, streamlined web-applications.
+
+```txt
+███████╗████████╗ ██████╗ ███████╗███████╗██████╗ ███████╗
+██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██╔════╝██╔══██╗██╔════╝
+███████╗   ██║   ██║   ██║█████╗  █████╗  ██████╔╝█████╗
+╚════██║   ██║   ██║   ██║██╔══╝  ██╔══╝  ██╔══██╗██╔══╝
+███████║   ██║   ╚██████╔╝██║     ███████╗██║  ██║███████╗
+╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝
+```
